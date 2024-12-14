@@ -1,0 +1,20 @@
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore virtual environment directories
+venv/
+myenv/
+
+# Ignore VSCode settings
+.vscode/
+
+# Ignore system files
+.DS_Store
+
+# Ignore dataset and downloads
+data/
+downloads/
+
+# Ignore WandB logs
+wandb/
